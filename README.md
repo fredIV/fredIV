@@ -9,7 +9,6 @@ If you'd like to know more about me, feel free to contact me at **Fred.l.thomasi
 ![](https://img.shields.io/badge/Cyber%20Security-informational?style=for-the-badge&color=62757f)
 ![](https://img.shields.io/badge/Incident%20Response-informational?style=for-the-badge&color=62757f)
 ![](https://img.shields.io/badge/File%20Analysis-informational?style=for-the-badge&color=62757f)
-![](https://img.shields.io/badge/Detection-informational?style=for-the-badge&color=62757f)
 ![](https://img.shields.io/badge/Scripting-informational?style=for-the-badge&color=62757f)
 ![](https://img.shields.io/badge/Automation-informational?style=for-the-badge&color=62757f)
 
