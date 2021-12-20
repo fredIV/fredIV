@@ -1,7 +1,7 @@
 ### Welcome to my GitHub page! :octocat:
 #### Cloud Engineer / Practitioner
 
-I have been part of the Cloud Operations field for over 8 years exploring areas of proactive cyber threat detection, hunting, and mitigation, automated analysis, digital forensics, and intrusion remediation. I have a B.S. in Computer Science from [Georgia Southern University](https://www.georgiasouthern.edu/) and achieved [AWS CCP](https://www.credly.com/badges/ce11d7df-ef48-4608-bbd6-b732a65e3f7d) certification. I currently work  at GE as a Cloud Engineer.
+I have been part of the Cloud Operations field for over 8 years exploring areas of identity and access management, threat remediation, and mitigation, and automation. I have a B.S. in Computer Science from [Georgia Southern University](https://www.georgiasouthern.edu/) and achieved [AWS CCP](https://www.credly.com/badges/ce11d7df-ef48-4608-bbd6-b732a65e3f7d) certification. I currently work  at GE as a Cloud Operations Engineer.
 
 If you'd like to know more about me, feel free to contact me at **Fred.l.thomasiv@gmail.com** or through [LinkedIn](https://www.linkedin.com/in/fredlthomasiv/)
 
